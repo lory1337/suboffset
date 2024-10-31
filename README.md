@@ -1,2 +1,3 @@
 # suboffset
-Lightweight program for setting subtitles to a specified offset.
+Subtitles offset customizer.
+Lightweight program for setting permanent offset to subtitles files.
